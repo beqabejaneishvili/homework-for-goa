@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beautiful Website</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Welcome to Our Beautiful Website</h1>
+            <nav>
+                <a href="goa">Home</a>
+                <a href="">გოა არის საუკეთესო სასწავლებელი. აქ შისწავლით პროგრამირებას და გრაფიკულ დიზაინს საუკეთსოდ</a>
+                <a href="facebook.com/nika11keshelava">Contact</a>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="hero">
+            <div class="container">
+                <h2>Discover the Beauty</h2>
+                <p>Welcome to our amazing website. Explore and enjoy!</p>
+                <a href="#" class="btn">Get Started</a>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; goa-the best.</p>
+        </div>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,13 @@
+# მომხმარებელს შემოატანინეთ სახელი
+# და დაპრინტეთ სახელი იმდენჯერ რამდენი ასოც არის სახელში
+
+user_name = beka("enter your name please") # beka beka beka beka
+
+ #name_length = len(user_name) #lengh
+ #print(name length + user_name)
+ #print(user_name + 4)
+
+
+ #surname = "bejaneishvili" #9
+
+ #print(len(surname))

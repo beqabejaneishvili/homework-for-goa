@@ -1,0 +1,21 @@
+# asks the user to enter the savlings
+savlings = float(input)
+
+# cunvert the user input into a float value and update the varieble
+# savings =
+
+# savings grow after 1 year at 5% amual interest rate
+balance = savings 3.0'
+
+# convert the balance into a string and update the varieble
+# balance =
+
+# concatenate the the 2 strings to prodace a messige
+messige = "amount in 1 year: " + str(balance)
+
+# isplay the messige
+
+print( messige)
+
+/<head>
+/<body>
